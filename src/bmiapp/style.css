@@ -1,0 +1,24 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 20, 2020, 1:32:56 PM
+    Author     : Admin
+*/
+GridPane{
+    -fx-background-color: lightblue;
+    -fx-padding: 10px;
+}
+Button {
+    -fx-background-color: red;
+    -fx-text-fill: gold;
+}
+
+Text {
+    -fx-font-size: 46;
+    -fx-fill: yellow;
+    -fx-stroke-width: 2;
+    -fx-stroke: red;
+}
