@@ -1,6 +1,7 @@
 # BMIApp
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 test
 =======
 trinh chan dat
@@ -11,3 +12,7 @@ trinh chan dat hihihihi
 
 test nhat hao
 
+=======
+trinh chan dat hihihihi
+hello
+>>>>>>> f8e3ae179911e8a09fccdedf2fb5b9221ca2ec54
